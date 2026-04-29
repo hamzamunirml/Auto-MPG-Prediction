@@ -1,3 +1,5 @@
+## Auto MPG Detection
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa321c99-6631-457f-ab25-1c1ad5b656bd" />
 
 ## 📌 Introduction
